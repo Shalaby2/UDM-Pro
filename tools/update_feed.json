@@ -1,8 +1,8 @@
 {
-  "version": "2.6.14",
-  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.14/UltraDownloadManager_Setup.exe",
-  "sha256": "3a23bc11d1031aff9c084b0ba22b605262c666352e588e4dd3f775f8dba57121",
-  "size": 203531154,
-  "notes": "إصلاح طي المشغل العائم، وإضافة شاشة عرض الفيديو المصغرة (PiP)، وتحديث التثبيت التلقائي المباشر، وتحسينات الأمان.",
-  "sig": "POnNUvyXHQvfynR5bJ9BsGMMSpD8McrU9is-2tUTP8LV3Or6cvS0Cjhzq-PqGgeVDSGuMLRt1MkwniympyNYDA"
+  "version": "2.6.15",
+  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.15/UltraDownloadManager_Setup.exe",
+  "sha256": "c357a697507d8ec66477bf30ea47fb8876abc8ff9ab4d5501ec863fff93dc438",
+  "size": 236356014,
+   "notes": "إصلاح النوافذ العائمة: نافذة تشغيل واحدة في كل مرة، منع تشغيل صوتين أو فيديوهين معًا، إغلاق المشغّل لم يعد يغلق البرنامج، كتم وحجب إعلانات يوتيوب الوسطية، واستقرار نافذة السينما المصغّرة.",
+  "sig": "xWN1IPTfSDfh7R5yI6XsBkN7DyaO2zmN03dcacCDxNpaZoWI9bmVZ93rHHw_OD9BeetnzD6GfrL-zPBKDkWACw"
 }
