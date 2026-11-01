@@ -1,8 +1,8 @@
 {
-  "version": "2.6.13",
-  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.13/UltraDownloadManager_Setup.exe",
-  "sha256": "b1cb35e71afd8a8d71f66d54184fd0f8407e3c82ea4a3595a765d61d2cfb114b",
-  "size": 236353674,
-  "notes": "إصلاح طي المشغل العائم، وإضافة شاشة عرض الفيديو المصغرة (PiP)، وتحسينات الأداء والواجهة.",
-  "sig": "Ut4LTQUtXpEQj5mdBfdVaQpnOKU7fZawl3X_E9jC-UdihVzoXrC7ngW8UXFA5DRBZ57-MfkP84z6kiO2YTptBA"
+  "version": "2.6.14",
+  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.14/UltraDownloadManager_Setup.exe",
+  "sha256": "3a23bc11d1031aff9c084b0ba22b605262c666352e588e4dd3f775f8dba57121",
+  "size": 203531154,
+  "notes": "إصلاح طي المشغل العائم، وإضافة شاشة عرض الفيديو المصغرة (PiP)، وتحديث التثبيت التلقائي المباشر، وتحسينات الأمان.",
+  "sig": "POnNUvyXHQvfynR5bJ9BsGMMSpD8McrU9is-2tUTP8LV3Or6cvS0Cjhzq-PqGgeVDSGuMLRt1MkwniympyNYDA"
 }
