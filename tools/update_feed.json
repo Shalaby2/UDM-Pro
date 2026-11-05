@@ -1,8 +1,8 @@
 {
-  "version": "2.6.15",
-  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.15/UltraDownloadManager_Setup.exe",
-  "sha256": "c357a697507d8ec66477bf30ea47fb8876abc8ff9ab4d5501ec863fff93dc438",
-  "size": 236356014,
-   "notes": "إصلاح النوافذ العائمة: نافذة تشغيل واحدة في كل مرة، منع تشغيل صوتين أو فيديوهين معًا، إغلاق المشغّل لم يعد يغلق البرنامج، كتم وحجب إعلانات يوتيوب الوسطية، واستقرار نافذة السينما المصغّرة.",
-  "sig": "xWN1IPTfSDfh7R5yI6XsBkN7DyaO2zmN03dcacCDxNpaZoWI9bmVZ93rHHw_OD9BeetnzD6GfrL-zPBKDkWACw"
+  "version": "2.6.35",
+  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.35/UltraDownloadManager_Setup.exe",
+  "sha256": "4621bf487f3d91549b48494f918f1bffb79d97c007caa9cdff5a70b005664f24",
+  "size": 234692563,
+  "notes": "إصلاح التقاط روابط الحافظة (نافذة واحدة فقط ونسخ الرابط نفسه يعمل)، تحسين تخطي إعلانات يوتيوب واستعادة سرعة وكتم المستخدم، تفعيل قائمة المواقع المستثناة وحجب المتتبعات، منع منح صلاحيات الكاميرا والموقع للصفحات، والتحقق من شهادات TLS عند جلب أغلفة السينما.",
+  "sig": "BtGVW_T40hra7qZzeyZW-38SsuerXN8doo2IIdvQxmNGLDk7eaoQPfw6h5RDKBlbJAbzwFTtHiDCFponm9LuBA"
 }
