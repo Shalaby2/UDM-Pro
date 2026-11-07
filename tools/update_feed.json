@@ -1,8 +1,8 @@
 {
-  "version": "2.6.35",
-  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.35/UltraDownloadManager_Setup.exe",
-  "sha256": "4621bf487f3d91549b48494f918f1bffb79d97c007caa9cdff5a70b005664f24",
-  "size": 234692563,
-  "notes": "إصلاح التقاط روابط الحافظة (نافذة واحدة فقط ونسخ الرابط نفسه يعمل)، تحسين تخطي إعلانات يوتيوب واستعادة سرعة وكتم المستخدم، تفعيل قائمة المواقع المستثناة وحجب المتتبعات، منع منح صلاحيات الكاميرا والموقع للصفحات، والتحقق من شهادات TLS عند جلب أغلفة السينما.",
-  "sig": "BtGVW_T40hra7qZzeyZW-38SsuerXN8doo2IIdvQxmNGLDk7eaoQPfw6h5RDKBlbJAbzwFTtHiDCFponm9LuBA"
+  "version": "2.6.52",
+  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.52/UltraDownloadManager_Setup.exe",
+  "sha256": "fa5ebceefb3ea6115e7e9edbb060162a29c972d021b818f2be003e2222bef6da",
+  "size": 234732517,
+  "notes": "مقاطع المنصات تُشغل في مشغل UDM لان محرك المتصفح بلا H.264/AAC",
+  "sig": "yWmcHDIdnTVY4fejfiWn1xuqagmzLbpjkKEgZSpY-UOSwr28SwXSyZfreZ2STVXru-kZHK8I6zcYP4siZUusAQ"
 }
