@@ -1,8 +1,8 @@
 {
-  "version": "2.6.52",
-  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.52/UltraDownloadManager_Setup.exe",
-  "sha256": "fa5ebceefb3ea6115e7e9edbb060162a29c972d021b818f2be003e2222bef6da",
-  "size": 234732517,
-  "notes": "مقاطع المنصات تُشغل في مشغل UDM لان محرك المتصفح بلا H.264/AAC",
-  "sig": "yWmcHDIdnTVY4fejfiWn1xuqagmzLbpjkKEgZSpY-UOSwr28SwXSyZfreZ2STVXru-kZHK8I6zcYP4siZUusAQ"
+  "version": "2.6.54",
+  "url": "https://github.com/Shalaby2/UDM-Pro/releases/download/v2.6.54/UltraDownloadManager_Setup.exe",
+  "sha256": "c7c6e1b86eaf906f599d63733117180a5b134a0bab40cb181d39b17566977e89",
+  "size": 213757809,
+  "notes": "إصلاح جذري لفشل التحميل عند 100% (مساحة عمل مستقلة لكل تحميل)، منع تكرار نفس التحميل، فتح الفيديو والصوت في مشغل البرنامج، مشغل يعمل على كل الأجهزة، تفضيل H.264/AAC، حماية من انهيار التورنت، ودعم الرفع المجزّأ من الهاتف.",
+  "sig": "ZtCbPw_vX5gI-9UFfmRpmLKaI3ux2UgBGMVPTp6eT0zyEhnG4-5Tp0a40nSLSutrf8yXb1xmKQDW2ZxuS5A0Cg"
 }
